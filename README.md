@@ -1,6 +1,7 @@
 
 This repo collects some open source SLAM codes or links.
 
+## 流行算法列表
 
 | 方案名称 | 传感器形式 | 地址 |
 | ------ | ------ | ------ |
@@ -21,3 +22,18 @@ This repo collects some open source SLAM codes or links.
 |OKVIS  |多目+IMU  |[https://github.com/ethz-asl/okvis](https://github.com/ethz-asl/okvis)|
 |ROVIO  |多目+IMU  |[https://github.com/ethz-asl/rovio](https://github.com/ethz-asl/rovio)|
 |VINS  |单目+IMU  |[https://github.com/HKUST-Aerial-Robotics/VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)|
+
+## 锦上添花
+
+### IMU
+- [MultiCol-SLAM: 多目鱼眼](https://github.com/urbste/MultiCol-SLAM)
+
+### 线特征
+- [PL-SLAM](https://github.com/rubengooj/pl-slam)
+- [Stereo Visual-Inertial SLAM With Points and Lines](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533332)
+- [StructVIO: Visual-inertial Odometry with Structural Regularity of Man-made Environments](https://arxiv.org/pdf/1810.06796.pdf)
+### 抗高动态
+- [DynaSLAM](https://bertabescos.github.io/DynaSLAM/),[github](https://github.com/BertaBescos/DynaSLAM)
+
+## 友情链接
+- [Recent SLAM Research](https://github.com/YiChenCityU/Recent_SLAM_Research)
