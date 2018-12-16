@@ -29,7 +29,7 @@ This repo collects some open source SLAM codes or links.
 - [MultiCol-SLAM: 多目鱼眼](https://github.com/urbste/MultiCol-SLAM)
 
 ### 线特征
-- [PL-SLAM](https://github.com/rubengooj/pl-slam)
+- [PL-SLAM: a Stereo SLAM System through the Combination of Points and Line Segments](https://github.com/rubengooj/pl-slam)
 - [Stereo Visual-Inertial SLAM With Points and Lines](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533332)
 - [StructVIO: Visual-inertial Odometry with Structural Regularity of Man-made Environments](https://arxiv.org/pdf/1810.06796.pdf)
 ### 抗高动态
